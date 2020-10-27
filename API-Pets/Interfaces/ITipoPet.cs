@@ -1,5 +1,4 @@
 ﻿using API_Pets.Domains;
-using API_Pets.Generic;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -8,7 +7,23 @@ using System.Threading.Tasks;
 
 namespace API_Pets.Interfaces
 {
-    interface ITipoDePet : Generic<Random>
-    {   
+    interface ITipoPet 
+    {
+        //utilizando crud
+
+        //create
+        TipoPet Cadastrar(TipoPet p);
+
+        //listando as racas
+        List<TipoPet> LerTodos();
+
+        //busca por id
+        TipoPet BuscarPorId(int id);
+
+        //alterar
+        TipoPet Alterar(TipoPet p);
+
+        //delete
+        void Excluir(int id);
     }
 }

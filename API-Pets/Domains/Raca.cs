@@ -7,7 +7,7 @@ namespace API_Pets.Domains
 {
     public class Raca
     {
-        public int IdTipoDePet { get; set; }
+        public int IdTipoPet { get; set; }
         public int IdRaca { get; set; }
         public string Descricao { get; set; }
     }
