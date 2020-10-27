@@ -1,0 +1,10 @@
+C:\Users\muril\source\repos\EF-Core\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\muril\source\repos\EF-Core\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\muril\source\repos\EF-Core\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\muril\source\repos\EF-Core\bin\Debug\netcoreapp3.1\EF-Core.exe
+C:\Users\muril\source\repos\EF-Core\obj\Debug\netcoreapp3.1\EF-Core.csprojAssemblyReference.cache
+C:\Users\muril\source\repos\EF-Core\obj\Debug\netcoreapp3.1\EF-Core.AssemblyInfoInputs.cache
+C:\Users\muril\source\repos\EF-Core\obj\Debug\netcoreapp3.1\EF-Core.AssemblyInfo.cs
+C:\Users\muril\source\repos\EF-Core\obj\Debug\netcoreapp3.1\EF-Core.RazorTargetAssemblyInfo.cache
+C:\Users\muril\source\repos\EF-Core\obj\Debug\netcoreapp3.1\staticwebassets\EF-Core.StaticWebAssets.Manifest.cache
+C:\Users\muril\source\repos\EF-Core\obj\Debug\netcoreapp3.1\staticwebassets\EF-Core.StaticWebAssets.xml
