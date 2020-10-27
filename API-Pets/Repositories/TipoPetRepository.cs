@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace API_Pets.Repositories
 {
-    public class RacaRepository
+    public class TipoPetRepository
     {
     }
 }
