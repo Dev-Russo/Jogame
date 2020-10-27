@@ -13,11 +13,10 @@ namespace EFCore.Context
         public DbSet<Produto> Produtos { get; set; }
         public DbSet<PedidoItem> PedidoItens { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
-                optionsBuilder.UseSqlServer(@"Data source=.\SQLEXPRESS;Initial Catalog=Pedidos;user id=sa;password=sa132");
-
+                optionsBuilder.UseSqlServer(@"Data source=.\SQLEXPRESS;Initial Catalog=Pets;user id=sa;password=sa132");
             base.OnConfiguring(optionsBuilder);
         }
     }
