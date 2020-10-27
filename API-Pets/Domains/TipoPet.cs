@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace API_Pets.Domains
 {
-    public class TipoDePet
+    public class TipoPet
     {
-        public int IdTipoDePet { get; set; }
+        public int IdTipoPet { get; set; }
         public string Descricao { get; set; }
     }
 }
