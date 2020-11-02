@@ -1,0 +1,10 @@
+C:\Users\muril\OneDrive\Documentos\Projetos\Jogame\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\muril\OneDrive\Documentos\Projetos\Jogame\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\muril\OneDrive\Documentos\Projetos\Jogame\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\muril\OneDrive\Documentos\Projetos\Jogame\bin\Debug\netcoreapp3.1\Jogame.exe
+C:\Users\muril\OneDrive\Documentos\Projetos\Jogame\obj\Debug\netcoreapp3.1\Jogame.csprojAssemblyReference.cache
+C:\Users\muril\OneDrive\Documentos\Projetos\Jogame\obj\Debug\netcoreapp3.1\Jogame.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Documentos\Projetos\Jogame\obj\Debug\netcoreapp3.1\Jogame.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Documentos\Projetos\Jogame\obj\Debug\netcoreapp3.1\Jogame.RazorTargetAssemblyInfo.cache
+C:\Users\muril\OneDrive\Documentos\Projetos\Jogame\obj\Debug\netcoreapp3.1\staticwebassets\Jogame.StaticWebAssets.Manifest.cache
+C:\Users\muril\OneDrive\Documentos\Projetos\Jogame\obj\Debug\netcoreapp3.1\staticwebassets\Jogame.StaticWebAssets.xml
