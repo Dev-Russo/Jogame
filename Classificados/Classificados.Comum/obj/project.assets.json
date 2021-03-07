@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muril\\source\\repos\\Classificados\\Classisficados.Comum\\Classisficados.Comum.csproj",
-      "projectName": "Classisficados.Comum",
-      "projectPath": "C:\\Users\\muril\\source\\repos\\Classificados\\Classisficados.Comum\\Classisficados.Comum.csproj",
+      "projectUniqueName": "C:\\Users\\muril\\source\\repos\\Classificados\\Classificados.Comum\\Classificados.Comum.csproj",
+      "projectName": "Classificados.Comum",
+      "projectPath": "C:\\Users\\muril\\source\\repos\\Classificados\\Classificados.Comum\\Classificados.Comum.csproj",
       "packagesPath": "C:\\Users\\muril\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muril\\source\\repos\\Classificados\\Classisficados.Comum\\obj\\",
+      "outputPath": "C:\\Users\\muril\\source\\repos\\Classificados\\Classificados.Comum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\muril\\AppData\\Roaming\\NuGet\\NuGet.Config",
